@@ -1,8 +1,6 @@
-# CoinBeams
+<img src="https://raw.githubusercontent.com/IsaiahAnson/coin-beams/main/assets/banner.svg" width="100%" alt="CoinBeams, a Grain Rot mod by Mentalize. Find the loot worth carrying at a glance. Client-side visuals, Friends don't need it, UE4SS.">
 
-[**Get it on Thunderstore**](https://thunderstore.io/c/grain-rot/p/Mentalize/CoinBeams/)
-
-<img src="icon.png" width="120" align="right" alt="CoinBeams icon">
+<a href="https://thunderstore.io/c/grain-rot/p/Mentalize/CoinBeams/"><img src="https://raw.githubusercontent.com/IsaiahAnson/coin-beams/stats/downloads.svg" width="100%" alt="Download count and latest version on Thunderstore. Get it on Thunderstore."></a>
 
 **Find the loot worth carrying, without hunting pixel by pixel.**
 
